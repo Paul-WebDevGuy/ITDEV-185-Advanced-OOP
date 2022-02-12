@@ -1,0 +1,3 @@
+﻿  satterlee_Assignment4.cpp
+C:\code\MATC\itdev185-sp2022\satterlee_Assignment4\satterlee_Assignment4\satterlee_Assignment4.cpp(107,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  satterlee_Assignment4.vcxproj -> C:\code\MATC\itdev185-sp2022\satterlee_Assignment4\Debug\satterlee_Assignment4.exe
