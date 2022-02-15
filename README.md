@@ -11,3 +11,6 @@ The objective was for us to familiarize ourselves with formatting output in C++ 
 
 
 **ASSIGNMENT 4**-  This program has the user flip coins until the total either equals $1 exactly for a win or goes over $1 for a lose.  The program instantiates 3 Coin classes (one nickel, one dime, and one quarter).  Each turn, all 3 coins are flipped.  If the coin lands on heads, it's amount is added to the balance, if it lands on tails nothing is added to the balance.  This continues until the total reaches a dollar or more.  The objective of this program was to get us familiar with using creating our own classes, instantiating those classes, and then using them in a program.  
+
+
+**ASSIGNMENT 5**-  This program is a slot machine.  I created 3 classes, one called Reel that randomly chose an animal from an array.  One called slot machine that had 3 Reel objects as its game face.  It would spin the "wheel" of Reel objects and check for when all three Reel objects were equal.  The main function kept track of how many games were played until a win occured.  The purpose of this assignment was to get us more familiar with using header files, implementation files, and using each of them together.  
