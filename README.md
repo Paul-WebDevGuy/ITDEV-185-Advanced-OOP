@@ -14,3 +14,9 @@ The objective was for us to familiarize ourselves with formatting output in C++ 
 
 
 **ASSIGNMENT 5**-  This program is a slot machine.  I created 3 classes, one called Reel that randomly chose an animal from an array.  One called slot machine that had 3 Reel objects as its game face.  It would spin the "wheel" of Reel objects and check for when all three Reel objects were equal.  The main function kept track of how many games were played until a win occured.  The purpose of this assignment was to get us more familiar with using header files, implementation files, and using each of them together.  
+
+
+**ASSIGNMENT 6**-  This program simulates 100 different "Players" rolling 20 dice each.  All 20 dice from each individual player is added up and the player with the highest total is declared the winner.  The purpose of this assignment was to start using pointers.  Pointers were used to pass arguments to a function and also as a return value from a function.
+
+
+**ASSIGNMENT 7**-  This program was a bit of a redo from assignment 4 but was an introduction to child classes and static member functions and variables.  So the logic was the same but we created 3 child classes, one for each of a nickel, dime and a quarter.  Each of these child classes was instantiated in main() and then passed by a pointer to a function where it's value was added to a static balance variable.  
