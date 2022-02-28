@@ -1,0 +1,5 @@
+﻿  Coin.cpp
+  satterlee_Assignment7.cpp
+C:\code\MATC\itdev185-sp2022\satterlee_Assignment7\satterlee_Assignment7\satterlee_Assignment7.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  satterlee_Assignment7.vcxproj -> C:\code\MATC\itdev185-sp2022\satterlee_Assignment7\Debug\satterlee_Assignment7.exe
