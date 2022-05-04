@@ -1,0 +1,14 @@
+﻿  Item.cpp
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\Item.cpp(182,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  satterlee_Final.cpp
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\satterlee_Final.cpp(464,23): warning C4018: '<': signed/unsigned mismatch
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\satterlee_Final.cpp(481,33): warning C4018: '>': signed/unsigned mismatch
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\satterlee_Final.cpp(494,23): warning C4018: '<': signed/unsigned mismatch
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\satterlee_Final.cpp(543,23): warning C4018: '<': signed/unsigned mismatch
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\satterlee_Final.cpp(559,33): warning C4018: '>': signed/unsigned mismatch
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\satterlee_Final.cpp(572,23): warning C4018: '<': signed/unsigned mismatch
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\satterlee_Final.cpp(621,23): warning C4018: '<': signed/unsigned mismatch
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\satterlee_Final.cpp(637,33): warning C4018: '>': signed/unsigned mismatch
+C:\code\MATC\itdev185-sp2022\satterlee_Final\satterlee_Final\satterlee_Final.cpp(649,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  satterlee_Final.vcxproj -> C:\code\MATC\itdev185-sp2022\satterlee_Final\Debug\satterlee_Final.exe
